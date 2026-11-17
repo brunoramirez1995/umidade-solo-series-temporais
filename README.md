@@ -124,7 +124,7 @@ A execução sobrescreve os arquivos de saída correspondentes. Execute cada scr
 
 Os CSVs e PDFs podem ser consultados sem executar os modelos. Para reproduzir os diagnósticos do script 18 e a transferência do script 19 sem repetir os ajustes, são necessários os arquivos RDS abaixo.
 
-Os RDS são produtos dos scripts e ficam fora do histórico do Git. Podem ser obtidos pelo pacote `ajustes_salvos.zip`, caso disponibilizado na seção **Releases**, ou regenerados pelos scripts indicados.
+Os RDS são produtos dos scripts e ficam fora do histórico do Git. Estão disponíveis no pacote [ajustes_salvos.zip](https://github.com/brunoramirez1995/umidade-solo-series-temporais/releases/download/v1.0.0/ajustes_salvos.zip), da versão v1.0.0, e também podem ser regenerados pelos scripts indicados abaixo.
 
 | Arquivo dentro de `resultados/modelagem/` | Produzido pelo script |
 |---|---|

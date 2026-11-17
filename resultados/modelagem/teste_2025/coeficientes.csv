@@ -1,0 +1,718 @@
+localidade_id,localidade,clima,variavel,familia,modelo,termo,estimativa
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,(Intercept),0.023419800444147404
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,lag_1,0.89944888439544
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,lag_2,-0.15380210682574802
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,lag_3,0.22311392537990993
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,sen_1,0.009172723793989306
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,sen_2,-2.3686418304935238e-4
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,sen_3,0.0016134850085895813
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,cos_1,0.003125787796782514
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,cos_2,0.0015587622500158884
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,cos_3,2.3301513393310554e-4
+belem_pa,Belém,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_1_K3,ar1,0.5821584216826703
+belem_pa,Belém,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_1_K3,ma1,-0.7689397552488362
+belem_pa,Belém,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_1_K3,sen_1,0.2440643714983868
+belem_pa,Belém,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_1_K3,sen_2,0.02057939546305608
+belem_pa,Belém,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_1_K3,sen_3,0.013207297102944085
+belem_pa,Belém,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_1_K3,cos_1,-0.06841483233926006
+belem_pa,Belém,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_1_K3,cos_2,0.02071786825877374
+belem_pa,Belém,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_1_K3,cos_3,-0.017989123694299534
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,(Intercept),0.024931691944293583
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,lag_1,0.8697876154491859
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,lag_2,-0.13575849444177865
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,lag_3,0.23122446557268647
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,sen_1,0.009208657112638168
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,sen_2,-3.064166441174084e-4
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,sen_3,0.0016696486730020626
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,cos_1,0.002756488509629472
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,cos_2,0.0017861048130586143
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,cos_3,1.476035935421163e-4
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,precipitacao_lag_1,1.5770436276998576e-4
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,(Intercept),0.02141540221668064
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,lag_1,0.7666196175717044
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,lag_2,-0.06695786453570284
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,lag_3,0.26734921270489964
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,sen_1,0.010503790135873135
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,sen_2,-5.16998912807307e-4
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,sen_3,0.0016714407948154434
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,cos_1,0.0019562015209428894
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,cos_2,9.525564701893498e-4
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,cos_3,-3.7145250097304417e-4
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,precipitacao_lag_1,0.0030488920487902397
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,interacao,-0.002995220515286272
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,intercepto_baixo,0.03211306514484409
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,phi_baixo_1,1.1480864450305246
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,phi_baixo_2,-0.19032300994016854
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,intercepto_alto,0.010236183378606415
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,phi_alto_1,0.8709504898502448
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,phi_alto_2,-0.12082896217692099
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,phi_alto_3,0.234283945576883
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,sen_1,0.007741966342923386
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,sen_2,4.461401358538594e-4
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,sen_3,0.001408255169927692
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,cos_1,0.0035444328073631717
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,cos_2,0.002283816754735537
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,cos_3,9.795070778821802e-4
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,intercepto_baixo,0.012643452718376073
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,phi_baixo_1,1.4926676743711298
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,phi_baixo_2,-0.47829853514604503
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,intercepto_alto,0.004880627113681606
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,phi_alto_1,0.848318871300342
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,phi_alto_2,-0.09996899441303443
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,phi_alto_3,0.24225057326344027
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,sen_1,0.007347106289691963
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,sen_2,6.124003168221229e-4
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,sen_3,0.0013560694955161137
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,cos_1,0.0037470239241586514
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,cos_2,0.0025699843320363645
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,cos_3,0.00110163224198913
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,(Intercept),0.007078418179244735
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,lag_1,1.164360910199346
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,lag_2,-0.1810946111801431
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,lag_3,0.007584323027691122
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,sen_1,0.0033230620547243183
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,sen_2,-9.663665803923798e-5
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,sen_3,0.0010227546543274293
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,cos_1,0.002764006028453458
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,cos_2,4.4116159017313803e-4
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,cos_3,5.001328045595255e-4
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,ar1,0.9894437148992352
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,ma1,0.17304419339473437
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,intercept,0.7735183015649326
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,sen_1,0.24385676241014098
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,sen_2,0.012976774128015713
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,sen_3,0.016464638718302886
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,cos_1,-0.0757042247494761
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,cos_2,0.007680604452959594
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,cos_3,-0.020260174215883473
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,(Intercept),0.011256230669081858
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,lag_1,0.8746956834221697
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,lag_2,0.09069265195265615
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,lag_3,0.013684782321815152
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,sen_1,0.0027891344933859826
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,sen_2,-5.410537853344021e-4
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,sen_3,0.001429913924019172
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,cos_1,0.0018707852877082526
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,cos_2,0.001240074863944621
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,cos_3,2.9199672309515823e-4
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,precipitacao_lag_1,6.963950097783561e-4
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,(Intercept),-0.0012443694726737148
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,lag_1,0.7046652640922161
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,lag_2,0.2648512833023788
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,lag_3,0.024429524567562186
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,sen_1,0.003009691179848669
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,sen_2,-7.789623902394801e-4
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,sen_3,0.0013236167209857074
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,cos_1,0.0020002011498159735
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,cos_2,-4.713793558934657e-4
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,cos_3,-5.219728614598452e-5
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,precipitacao_lag_1,0.003926057166532745
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,interacao,-0.003542339151277666
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,intercepto_baixo,0.005304942625947523
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,phi_baixo_1,1.198809085818446
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,phi_baixo_2,-0.21450734312077624
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,phi_baixo_3,0.009790526114436425
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,intercepto_alto,0.18326610421228662
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,phi_alto_1,0.7428307637278619
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,phi_alto_2,0.06955717674072455
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,sen_1,0.0037371654919489366
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,sen_2,-2.3820902641675962e-4
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,sen_3,7.043484897649974e-4
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,cos_1,0.002827402186532245
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,cos_2,-3.165425521411296e-4
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,cos_3,6.320154951659967e-4
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,intercepto_baixo,0.004684800453107738
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,phi_baixo_1,1.2126627559239063
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,phi_baixo_2,-0.23516186664156552
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,phi_baixo_3,0.01765913047195964
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,intercepto_alto,0.12586559786954626
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,phi_alto_1,0.49261467675459786
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,phi_alto_2,0.3745726397067736
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,sen_1,0.003807776253253461
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,sen_2,-2.904370773708433e-4
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,sen_3,7.150933438085547e-4
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,cos_1,0.002885265792497019
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,cos_2,-4.711767404098945e-4
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,cos_3,6.955630362113767e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,(Intercept),0.021795087063266144
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,lag_1,0.8817536508692645
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,lag_2,-0.16732863676773238
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,lag_3,0.25615707081334593
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,sen_1,0.00580592613307193
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,sen_2,-0.0016514578237256127
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,sen_3,1.3327444316598038e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,cos_1,0.002338073214775799
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,cos_2,4.8738242513207377e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,cos_3,-2.8997494860946076e-4
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,ar1,0.2575438072066979
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,ma1,-0.4055027763234146
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,ma2,-0.26837250162038795
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,sen_1,0.16012538587393058
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,sen_2,-0.009987345228756384
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,sen_3,-0.002821144716252661
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,cos_1,-0.04312563196428056
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,cos_2,0.030358256800280935
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,cos_3,-0.0030306281225363657
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,(Intercept),0.020195511991612874
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,lag_1,0.9182765213111646
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,lag_2,-0.1902557399827252
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,lag_3,0.24611062216293958
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,sen_1,0.005784537716104452
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,sen_2,-0.0016415846233811366
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,sen_3,1.0004231168635346e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,cos_1,0.0027482079403728307
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,cos_2,3.1336384824438737e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,cos_3,-2.191583855788491e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,precipitacao_lag_1,-1.9217167569895963e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,(Intercept),0.012571440696311135
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,lag_1,0.7993335560709606
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,lag_2,-0.10485766593206099
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,lag_3,0.2860475408696665
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,sen_1,0.006064703487065805
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,sen_2,-0.0014372315712774242
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,sen_3,2.528518717660865e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,cos_1,0.0013907328315287122
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,cos_2,-2.5476749047914675e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,cos_3,-1.4748842036357938e-4
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,precipitacao_lag_1,0.0040982580180317285
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,interacao,-0.004588194427870976
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,intercepto_baixo,0.027296357604778543
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,phi_baixo_1,1.0675478089702373
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,phi_baixo_2,-0.27115505509319804
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,phi_baixo_3,0.16521289186687935
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,intercepto_alto,0.014356414700391772
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,phi_alto_1,0.7706461184980736
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,phi_alto_2,-0.11069360122444818
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,phi_alto_3,0.32012626836877167
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,sen_1,0.005139822165004369
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,sen_2,-0.0014837894066145293
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,cos_1,0.003040261782060657
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,cos_2,6.306831952601994e-4
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,intercepto_baixo,0.03899324009565417
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,phi_baixo_1,1.5739515622851639
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,phi_baixo_2,-0.6281124051649719
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,intercepto_alto,0.013010447895686466
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,phi_alto_1,0.6811579145289276
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,phi_alto_2,-0.04458272101978876
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,phi_alto_3,0.34541328457949344
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,sen_1,0.00509321471515627
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,sen_2,-0.0014416961962094687
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,cos_1,0.003193440771669556
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,cos_2,6.632472594000088e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,(Intercept),0.0043876141909992535
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,lag_1,1.1346438858342833
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,lag_2,-0.2790086555726529
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,lag_3,0.13840016752939868
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,sen_1,0.002010707171923349
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,sen_2,-6.965267395104318e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,sen_3,1.77775372461089e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,cos_1,0.0024385019503818245
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,cos_2,-4.5450565171519506e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,cos_3,2.1460425387580058e-4
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,ar1,0.4065056732188708
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,ma1,-0.27119933176980127
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,ma2,-0.17679971270159398
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,sen_1,0.1638751685500335
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,sen_2,-0.016750367312999982
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,sen_3,0.004589194267773185
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,cos_1,-0.058185357623613196
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,cos_2,0.017272031991198082
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,cos_3,-0.002723038048449162
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,(Intercept),0.008420471455886508
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,lag_1,0.6513343564279773
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,lag_2,0.1977574095430986
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,lag_3,0.13137746135478898
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,sen_1,0.0013432453281644568
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,sen_2,-8.22318985145843e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,sen_3,5.227819331705873e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,cos_1,7.935177627021135e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,cos_2,-1.7449456732869304e-5
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,cos_3,-3.1458498735967485e-5
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,precipitacao_lag_1,0.0011119238609737033
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,(Intercept),-0.0030998436382573347
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,lag_1,0.5830582522678389
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,lag_2,0.2762690912600977
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,lag_3,0.13598249815194405
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,sen_1,7.702907809775602e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,sen_2,-6.030310790745067e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,sen_3,5.526535214857819e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,cos_1,6.649037579356054e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,cos_2,-8.647578470235502e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,cos_3,1.6316829309234005e-4
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,precipitacao_lag_1,0.0034392268082452672
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,interacao,-0.0027950664451855327
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,intercepto_baixo,0.013298797549459037
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,phi_baixo_1,1.120154474516747
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,phi_baixo_2,-0.14158546258198773
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,intercepto_alto,0.002705362653482012
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,phi_alto_1,1.1329048444230374
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,phi_alto_2,-0.28466592888497616
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,phi_alto_3,0.14775470967845822
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,sen_1,0.0020729714346561456
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,sen_2,-5.6388768038642e-4
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,sen_3,9.668484780242643e-5
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,cos_1,0.002475541891672528
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,cos_2,-3.0474660801805057e-4
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,cos_3,2.799511816168423e-4
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,intercepto_baixo,-0.9153378127824922
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,phi_baixo_1,0.3907539533839936
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,phi_baixo_2,-0.6272013777303989
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,intercepto_alto,3.528839722318945
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,phi_alto_1,-1.0649916546070828
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,phi_alto_2,0.17032343910651596
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,phi_alto_3,0.3194675215216112
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,sen_1,0.0018933794843625916
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,sen_2,-5.693386276843771e-4
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,sen_3,3.0173465169553173e-5
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,cos_1,0.002618619599113112
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,cos_2,-5.350239228713744e-4
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,cos_3,3.91785779692713e-4
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR,AR3_K1_T,(Intercept),0.023377496268687348
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR,AR3_K1_T,lag_1,1.077738004510763
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR,AR3_K1_T,lag_2,-0.13084570767144088
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR,AR3_K1_T,lag_3,0.019166437117853524
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR,AR3_K1_T,sen_1,0.0029597016802557774
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR,AR3_K1_T,cos_1,0.009662234212658587
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR,AR3_K1_T,tempo,-1.967864414000293e-4
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,ar1,0.9625225531356469
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,ma1,0.11558803177964448
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,ma2,-0.011958679471493967
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,intercept,0.6894713386939377
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,sen_1,0.17755805032825056
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,cos_1,0.20563778281612224
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,tempo,-0.0058118792446007345
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,(Intercept),0.021141231690254555
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,lag_1,1.1649147532940642
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,lag_2,-0.1955732065628888
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,lag_3,0.004838713372734132
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,sen_1,0.0023517227451932674
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,cos_1,0.010866315909793044
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,tempo,-1.937511350588758e-4
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,precipitacao_lag_1,-8.232740367163463e-4
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,(Intercept),0.021689660388722214
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_1,0.9600451125198334
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_2,-0.03583387730847771
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_3,0.0437131203962003
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,sen_1,0.005861564580438168
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,cos_1,0.009119997871065332
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,tempo,-3.2697586949814847e-4
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,precipitacao_lag_1,0.012295399750586146
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,interacao,-0.014531104138227656
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,intercepto_baixo,0.01960452424096151
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,phi_baixo_1,1.604013219741444
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,phi_baixo_2,-0.7002241728145899
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,phi_baixo_3,0.07190298274364033
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,intercepto_alto,0.03335863425431162
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,phi_alto_1,0.8334043266781571
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,phi_alto_2,0.052512486292929476
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,phi_alto_3,0.068149890998180307
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,sen_1,0.002122063115116823
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,cos_1,0.009271359091550673
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,tempo,-1.891023315748428e-4
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,intercepto_baixo,0.017461441974426842
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,phi_baixo_1,2.5597404563834987
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,phi_baixo_2,-1.5723585402799114
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,intercepto_alto,0.025879889912379998
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,phi_alto_1,0.6477369709707366
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,phi_alto_2,0.2169845798730056
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,phi_alto_3,0.09792379192908132
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,sen_1,0.0019703979765906066
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,cos_1,0.00966000671980379
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,tempo,-1.8238005016050647e-4
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR,AR3_K1_T,(Intercept),0.009149531150989872
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR,AR3_K1_T,lag_1,1.2373315458683838
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR,AR3_K1_T,lag_2,-0.19139673537252339
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR,AR3_K1_T,lag_3,-0.058456129243786126
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR,AR3_K1_T,sen_1,-2.579690308951212e-6
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR,AR3_K1_T,cos_1,0.002299224944230043
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR,AR3_K1_T,tempo,-4.0857105710632155e-5
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,ar1,1.493720038077995
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,ar2,-0.5032058630649175
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,ma1,-0.26148313206623197
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,intercept,0.7329616569558963
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,sen_1,0.09227750395226014
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,cos_1,0.0991890882427709
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,tempo,-0.003338381267641355
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P,AR3_K1_T_P,(Intercept),0.016814038792196666
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P,AR3_K1_T_P,lag_1,0.6895634064941726
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P,AR3_K1_T_P,lag_2,0.2757008455470637
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P,AR3_K1_T_P,lag_3,0.003926343360609441
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P,AR3_K1_T_P,sen_1,-1.8640165646172278e-4
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P,AR3_K1_T_P,cos_1,-3.087218514165236e-4
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P,AR3_K1_T_P,tempo,-2.594588796667758e-5
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P,AR3_K1_T_P,precipitacao_lag_1,0.00140008753384483
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,(Intercept),0.010539116170904566
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_1,0.6847063651259734
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_2,0.28920267552650836
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_3,0.004096494290888173
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,sen_1,-5.181097596999599e-4
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,cos_1,-0.0011176533600249427
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,tempo,-2.1110349155047098e-5
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,precipitacao_lag_1,0.002962951327020701
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,interacao,-0.001970666512942399
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,intercepto_baixo,0.022099412201197984
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,phi_baixo_1,1.103855028552023
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,phi_baixo_2,-0.13852190273316345
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,intercepto_alto,0.009273259907365387
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,phi_alto_1,1.2631937451075588
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,phi_alto_2,-0.22188269038863512
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,phi_alto_3,-0.05397728417501243
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,sen_1,5.125130200848033e-5
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,cos_1,0.0024165085307518448
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,tempo,-4.5252713201981407e-05
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,intercepto_baixo,0.022969302852206285
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,phi_baixo_1,1.0952792370882727
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,phi_baixo_2,-0.0721350657533877
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,phi_baixo_3,-0.0592528190192581
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,intercepto_alto,0.0093406832896282
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,phi_alto_1,1.2633976996367609
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,phi_alto_2,-0.2218669590959527
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,phi_alto_3,-0.05429053199124265
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,sen_1,8.554887347492146e-5
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,cos_1,0.0024177985649792197
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,tempo,-4.585919105917717e-5
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR,AR3_K1_T,(Intercept),0.04697435990041235
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR,AR3_K1_T,lag_1,0.84516118936844975
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR,AR3_K1_T,lag_2,-0.04087479993848712
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR,AR3_K1_T,lag_3,0.11532018857863363
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR,AR3_K1_T,sen_1,0.004166582730791863
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR,AR3_K1_T,cos_1,0.008414599580238179
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR,AR3_K1_T,tempo,-4.5190098328126276e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,ar1,0.945026145677831
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,ma1,-0.11474940401285078
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,ma2,-0.1420927369937522
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,intercept,0.5848487775096203
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,sen_1,0.07232389516016086
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,cos_1,0.08734176415337448
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,tempo,-0.005643746099122833
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,(Intercept),0.0481352633325543
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,lag_1,0.83199508292445
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,lag_2,-0.0345059002227994
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,lag_3,0.11946580885208927
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,sen_1,0.004286486171902109
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,cos_1,0.008290517513804219
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,tempo,-4.62188229280401e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,precipitacao_lag_1,9.890515223344611e-5
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,(Intercept),0.04873266299021792
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_1,0.6658558520497936
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_2,0.06862809872151558
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_3,0.17438218256037688
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,sen_1,0.005263334742502665
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,cos_1,0.004834759559049379
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,tempo,-5.778800888529303e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,precipitacao_lag_1,0.00822792884700219
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,interacao,-0.010387244964927605
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,intercepto_baixo,0.026287684887424424
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,phi_baixo_1,0.9698432163871085
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,intercepto_alto,0.051313766671556606
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,phi_alto_1,0.7903672831902334
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,phi_alto_2,-0.02227952019338001
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,phi_alto_3,0.14357368796819062
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,sen_1,0.0034958594128725344
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,cos_1,0.008572377226907379
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,tempo,-3.8994241298585493e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,intercepto_baixo,0.026407363757822176
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,phi_baixo_1,0.9694810909839714
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,intercepto_alto,0.050851771656230484
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,phi_alto_1,0.7898158489593404
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,phi_alto_2,-0.022590985708949223
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,phi_alto_3,0.14516528498433437
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,sen_1,0.0034855984575695048
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,cos_1,0.008577764471931067
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,tempo,-3.892123217838649e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR,AR2_K1_T,(Intercept),0.0163271417790122
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR,AR2_K1_T,lag_1,1.4057601740347998
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR,AR2_K1_T,lag_2,-0.4343006692395581
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR,AR2_K1_T,sen_1,0.0011317112208495623
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR,AR2_K1_T,cos_1,0.002403071792798251
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR,AR2_K1_T,tempo,-1.3714061495598295e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,ar1,1.2909488612885132
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,ar2,-0.3218179880077782
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,ma1,0.14023903248089453
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,intercept,0.5719747224582593
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,sen_1,0.060786514490549656
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,cos_1,0.06451308345903897
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,tempo,-0.004782764382189813
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P,AR2_K1_T_P,(Intercept),0.028999086507744687
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P,AR2_K1_T_P,lag_1,0.7687179984906541
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P,AR2_K1_T_P,lag_2,0.16711313710762873
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P,AR2_K1_T_P,sen_1,0.0016035951706826236
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P,AR2_K1_T_P,cos_1,-0.0020399654416949843
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P,AR2_K1_T_P,tempo,-2.1641307164999127e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P,AR2_K1_T_P,precipitacao_lag_1,0.00195975658583185
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P + interação,AR2_K1_T_P_INTERACAO,(Intercept),0.024492995373812367
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P + interação,AR2_K1_T_P_INTERACAO,lag_1,0.7809328926183368
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P + interação,AR2_K1_T_P_INTERACAO,lag_2,0.16323228272621282
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P + interação,AR2_K1_T_P_INTERACAO,sen_1,0.0013954912924695915
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P + interação,AR2_K1_T_P_INTERACAO,cos_1,-0.0024393941826755814
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P + interação,AR2_K1_T_P_INTERACAO,tempo,-2.0183542405750906e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P + interação,AR2_K1_T_P_INTERACAO,precipitacao_lag_1,0.0029712712897209947
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P + interação,AR2_K1_T_P_INTERACAO,interacao,-0.0017093622436254857
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,intercepto_baixo,0.015704985639470922
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,phi_baixo_1,1.3514482345231797
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,phi_baixo_2,-0.37985729533000895
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,intercepto_alto,0.02958633397178
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,phi_alto_1,1.464667456891909
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,phi_alto_2,-0.5530480905351168
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,phi_alto_3,0.039356207209876884
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,sen_1,7.999448061524354e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,cos_1,0.0022982410033935813
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,tempo,-1.2304645294311474e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,intercepto_baixo,0.022764328391826617
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,phi_baixo_1,1.3493179509857645
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,phi_baixo_2,-0.39475117221796113
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,intercepto_alto,0.04077760319460498
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,phi_alto_1,1.4803359551569217
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,phi_alto_2,-0.5842099768813175
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,phi_alto_3,0.03877351453187046
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,sen_1,8.398467587742448e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,sen_2,-2.96552235764736e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,cos_1,0.002361333681186475
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,cos_2,4.677560245804427e-4
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,tempo,-1.3062119468803691e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,(Intercept),0.030712758064762334
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,lag_1,1.1442656843435097
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,lag_2,-0.2486788378779851
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,lag_3,0.04788522771837434
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,sen_1,0.002299361413944364
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,sen_2,-0.002136826222291326
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,cos_1,0.007705348361736999
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,cos_2,6.069375120350116e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,tempo,-2.1455541860619597e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K2_T,ar1,0.9230169932732739
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K2_T,ma1,-0.7779404861707694
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K2_T,ma2,-0.2183773291788565
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K2_T,sen_1,0.06989766168146044
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K2_T,sen_2,-0.026157181703056545
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K2_T,cos_1,0.11988935204002905
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K2_T,cos_2,0.023692480703563067
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K2_T,tempo,-0.0020755809461829628
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,(Intercept),0.030428805632726843
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,lag_1,1.1482420469562777
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,lag_2,-0.2509831330178245
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,lag_3,0.0468960707910444
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,sen_1,0.002260327694368029
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,sen_2,-0.0021275948928473286
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,cos_1,0.007711816868459476
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,cos_2,6.093959108753352e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,tempo,-2.1307930520187777e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,precipitacao_lag_1,-3.160796287270603e-5
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,(Intercept),0.03300018430012797
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,lag_1,0.8588324688825146
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,lag_2,-0.02702449138526891
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,lag_3,0.09715935486451005
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,sen_1,0.003246111467502977
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,sen_2,-0.0013347282604715086
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,cos_1,0.004352975322749751
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,cos_2,0.0015267887713150542
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,tempo,-2.734649116038478e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,precipitacao_lag_1,0.014599232857233775
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,interacao,-0.01734856808458566
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,intercepto_baixo,0.024901389202190153
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,phi_baixo_1,1.78062222378859
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,phi_baixo_2,-0.9423834103795933
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,phi_baixo_3,0.12009316488688686
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,intercepto_alto,0.043780151703465116
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,phi_alto_1,1.0110478057379015
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,phi_alto_2,-0.13221954640711192
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,phi_alto_3,0.04471730935305539
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,sen_1,0.0016546166785628687
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,sen_2,-0.0018507938144931874
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,cos_1,0.007623303766912689
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,cos_2,6.635086896327486e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,tempo,-1.8071166235585363e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,intercepto_baixo,0.022540730053335147
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,phi_baixo_1,3.4231678645432906
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,phi_baixo_2,-2.455415837000997
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,intercepto_alto,0.0378958545643626
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,phi_alto_1,0.846466280215215
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,phi_alto_2,0.02880257702143009
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,phi_alto_3,0.05643019085037255
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,sen_1,0.0018499337416531096
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,sen_2,-0.002171081571923725
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,sen_3,-0.00110716032427745
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,cos_1,0.008761609935903573
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,cos_2,4.5877523468684187e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,cos_3,-0.0016216573342492883
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,tempo,-1.9523232009291828e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR,AR2_K2_T,(Intercept),0.02178176099098088
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR,AR2_K2_T,lag_1,1.465608276640756
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR,AR2_K2_T,lag_2,-0.5025847069690741
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR,AR2_K2_T,sen_1,2.4654124610106745e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR,AR2_K2_T,sen_2,-2.8035355565290065e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR,AR2_K2_T,cos_1,0.0019971373531398793
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR,AR2_K2_T,cos_2,3.3331775971849733e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR,AR2_K2_T,tempo,-5.3863299212231356e-5
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_1_1_K2_T,ar1,1.46484126311002
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_1_1_K2_T,ar2,-0.5033032056496577
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_1_1_K2_T,ma1,-0.9982543721091689
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_1_1_K2_T,sen_1,0.017729827800942125
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_1_1_K2_T,sen_2,-0.003007440715237315
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_1_1_K2_T,cos_1,0.050700475467343006
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_1_1_K2_T,cos_2,0.010741000912483999
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_1_1_K2_T,tempo,-8.20546458774587e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,(Intercept),0.055899963083298324
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,lag_1,0.6913145216915951
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,lag_2,0.20478968899559308
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,sen_1,8.029321763862433e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,sen_2,3.4893283253365172e-6
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,cos_1,-7.300374838584703e-5
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,cos_2,4.8096426811290475e-5
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,tempo,-8.462249805593965e-5
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,precipitacao_lag_1,0.0019306196024333983
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,(Intercept),0.05017848860910226
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,lag_1,0.7172880368833123
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,lag_2,0.18869388571164347
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,sen_1,6.93149410834158e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,sen_2,9.299625084587665e-5
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,cos_1,-4.640034037714667e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,cos_2,9.834881338328184e-5
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,tempo,-7.803974047961922e-5
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,precipitacao_lag_1,0.0031321455334942495
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,interacao,-0.0018481068508643074
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,intercepto_baixo,0.02463508426735093
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,phi_baixo_1,0.9569184210371544
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,intercepto_alto,0.02207887661478712
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,phi_alto_1,1.4729892430933291
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,phi_alto_2,-0.5103021103849356
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,sen_1,1.281473930861159e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,sen_2,-2.1757325435607858e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,cos_1,0.001841341067076328
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,cos_2,3.6171133285688704e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,tempo,-5.099299035726305e-5
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,intercepto_baixo,-1.8357003545612784
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,phi_baixo_1,-0.767687675431389
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,phi_baixo_2,-1.0322429379871665
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,intercepto_alto,5.521107211754179
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,phi_alto_1,-1.9622601218448164
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,sen_1,1.764698167981499e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,sen_2,-2.5475443299579514e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,cos_1,0.00178862831871772
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,cos_2,3.532244439623924e-4
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,tempo,-4.718996661344718e-5
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,(Intercept),0.015855870198462105
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,lag_1,1.311553931499093
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,lag_2,-0.44038981406197436
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,lag_3,0.08830600969966737
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,sen_1,0.004646382248318268
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,sen_2,3.460059453980191e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,sen_3,-6.900620101306129e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,cos_1,0.0043253574061474665
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,cos_2,9.59199783551832e-5
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,cos_3,-9.26511780782431e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,ar1,1.0370396629193457
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,ar2,-0.08966949730559684
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,ma1,0.2769535324946805
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,intercept,0.392041326187583
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,sen_1,0.1345273034785957
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,sen_2,0.007710536877259661
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,sen_3,-0.02044596505188784
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,cos_1,0.06850776298058392
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,cos_2,-7.567745860928635e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,cos_3,-0.0035592279704807495
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,(Intercept),0.01795739110980229
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,lag_1,1.2512285344964245
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,lag_2,-0.39450258782619974
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,lag_3,0.09461404510458629
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,sen_1,0.004978409687423069
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,sen_2,1.6112966156797787e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,sen_3,-7.645895967309834e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,cos_1,0.004101540834773188
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,cos_2,1.166141947087661e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,cos_3,-9.27707414591176e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,precipitacao_lag_1,9.39921183272026e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,(Intercept),0.011052441908547603
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,lag_1,0.8375134290575651
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,lag_2,0.02592877394336135
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,lag_3,0.08540760395997525
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,sen_1,0.002450445369997023
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,sen_2,6.979092901669835e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,sen_3,6.925105228740839e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,cos_1,0.002221318895325211
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,cos_2,5.176818368526962e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,cos_3,5.6286817737634005e-5
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,precipitacao_lag_1,0.03442814312541158
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,interacao,-0.04219789133576734
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,intercepto_baixo,0.016964983111637237
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,phi_baixo_1,1.6682774326722287
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,phi_baixo_2,-0.9102749718789331
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,phi_baixo_3,0.19863596350714616
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,intercepto_alto,0.01579635471176914
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,phi_alto_1,1.0010182454883756
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,phi_alto_2,-0.03871003512431508
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,sen_1,0.00465374400306578
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,sen_2,1.2269631519244259e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,sen_3,-9.223622955351867e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,cos_1,0.0041404128364099365
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,cos_2,3.1030597696050526e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,cos_3,-7.921776962358231e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,intercepto_baixo,0.013152863220232685
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,phi_baixo_1,2.0992657260953655
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,phi_baixo_2,-1.360397204789239
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,phi_baixo_3,0.23919946475781362
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,intercepto_alto,-0.01070654352406397
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,phi_alto_1,0.82522774630223406
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,phi_alto_2,0.17388319207295433
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,sen_1,0.004663250027786926
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,sen_2,1.4294652489925413e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,sen_3,-8.763268471466724e-4
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,cos_1,0.004481712298515496
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,cos_2,9.422744819332855e-5
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,cos_3,-6.344833465123036e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR,AR3_K1_T,(Intercept),0.016883045776279002
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR,AR3_K1_T,lag_1,1.220134597374603
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR,AR3_K1_T,lag_2,-0.23555684873547067
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR,AR3_K1_T,lag_3,-0.011698528839189582
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR,AR3_K1_T,sen_1,3.3402696785086924e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR,AR3_K1_T,cos_1,5.493400673696172e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR,AR3_K1_T,tempo,-2.3407710823288947e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,ar1,1.2603467906413086
+petrolina_pe,Petrolina,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,ar2,-0.28643383062253
+petrolina_pe,Petrolina,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,ma1,-0.039884943165972096
+petrolina_pe,Petrolina,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,intercept,0.6223334526669997
+petrolina_pe,Petrolina,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,sen_1,0.017845816705304007
+petrolina_pe,Petrolina,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,cos_1,0.012247083918331807
+petrolina_pe,Petrolina,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,tempo,-8.394110631034582e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P,AR3_K1_T_P,(Intercept),0.05189174695323553
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P,AR3_K1_T_P,lag_1,0.5303755805468121
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P,AR3_K1_T_P,lag_2,0.2936259850436257
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P,AR3_K1_T_P,lag_3,0.08830329395315398
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P,AR3_K1_T_P,sen_1,-5.966520532067524e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P,AR3_K1_T_P,cos_1,-2.191162745590218e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P,AR3_K1_T_P,tempo,-2.3638553853698862e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P,AR3_K1_T_P,precipitacao_lag_1,0.0018024203466249981
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,(Intercept),0.045634655593549074
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_1,0.5475181815069329
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_2,0.2898893398336705
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,lag_3,0.08504253083932423
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,sen_1,-2.2314378144850646e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,cos_1,-3.105575218869128e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,tempo,-2.312096380719721e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,precipitacao_lag_1,0.0035561439386302463
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,interacao,-0.0026052024329611674
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,intercepto_baixo,0.030903550926613624
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,phi_baixo_1,1.2397581893879654
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,phi_baixo_2,-0.28988513470074107
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,intercepto_alto,0.003938941791937571
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,phi_alto_1,1.177823851920561
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,phi_alto_2,-0.16280651818374617
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,phi_alto_3,-0.024261391636224462
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,sen_1,6.378005746301055e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,sen_2,1.5009763137644822e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,sen_3,-8.61166186243189e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,cos_1,6.944816751546427e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,cos_2,4.659633614790648e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,cos_3,-6.664299318770026e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,tempo,-2.441573177668687e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,intercepto_baixo,0.1187910433865303
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,phi_baixo_1,0.8398679978510655
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,intercepto_alto,-0.08086621378375661
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,phi_alto_1,1.5348066457721719
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,phi_alto_2,-0.4342709514481696
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,sen_1,6.427671751798472e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,sen_2,1.5072412608499637e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,sen_3,-1.0196156239411325e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,cos_1,6.699261132898549e-4
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,cos_2,5.796743593832435e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,cos_3,-8.142558343982887e-5
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,tempo,-2.4736591226238036e-5

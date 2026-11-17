@@ -1,0 +1,73 @@
+localidade_id,localidade,clima,variavel,familia,modelo,p,d,q,p1,p2,delta,K,tendencia,com_precipitacao,com_interacao,arquivo_origem
+belem_pa,Belém,Úmido,GWETTOP,AR,AR3_K3,3,NA,NA,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_1_K3,1,1,1,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETTOP,AR + P,AR3_K3_P,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETTOP,SETAR,SETAR2_3_D1_K3,NA,NA,NA,2,3,1,3,FALSE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K3,NA,NA,NA,2,3,1,3,FALSE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETROOT,AR,AR3_K3,3,NA,NA,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_0_1_K3,1,0,1,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETROOT,AR + P,AR3_K3_P,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETROOT,SETAR,SETAR3_2_D1_K3,NA,NA,NA,3,2,1,3,FALSE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+belem_pa,Belém,Úmido,GWETROOT,LSTAR,LSTAR3_2_D1_K3,NA,NA,NA,3,2,1,3,FALSE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETTOP,AR,AR3_K3,3,NA,NA,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K3,1,1,2,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETTOP,AR + P,AR3_K3_P,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETTOP,SETAR,SETAR3_3_D1_K2,NA,NA,NA,3,3,1,2,FALSE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETTOP,LSTAR,LSTAR2_3_D1_K2,NA,NA,NA,2,3,1,2,FALSE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETROOT,AR,AR3_K3,3,NA,NA,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETROOT,ARMA/ARIMA,ARIMA_1_1_2_K3,1,1,2,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETROOT,AR + P,AR3_K3_P,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETROOT,AR + P + interação,AR3_K3_P_INTERACAO,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETROOT,SETAR,SETAR2_3_D3_K3,NA,NA,NA,2,3,3,3,FALSE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+manaus_am,Manaus,Úmido,GWETROOT,LSTAR,LSTAR2_3_D1_K3,NA,NA,NA,2,3,1,3,FALSE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR,AR3_K1_T,3,NA,NA,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,1,0,2,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,3,NA,NA,NA,NA,NA,1,TRUE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,3,NA,NA,NA,NA,NA,1,TRUE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,SETAR,SETAR3_3_D1_K1_T,NA,NA,NA,3,3,1,1,TRUE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETTOP,LSTAR,LSTAR2_3_D1_K1_T,NA,NA,NA,2,3,1,1,TRUE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR,AR3_K1_T,3,NA,NA,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,2,0,1,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P,AR3_K1_T_P,3,NA,NA,NA,NA,NA,1,TRUE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,3,NA,NA,NA,NA,NA,1,TRUE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D2_K1_T,NA,NA,NA,2,3,2,1,TRUE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+brasilia_df,Brasília,Tropical sazonal,GWETROOT,LSTAR,LSTAR3_3_D2_K1_T,NA,NA,NA,3,3,2,1,TRUE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR,AR3_K1_T,3,NA,NA,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,ARMA/ARIMA,ARIMA_1_0_2_K1_T,1,0,2,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P,AR3_K1_T_P,3,NA,NA,NA,NA,NA,1,TRUE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,AR + P + interação,AR3_K1_T_P_INTERACAO,3,NA,NA,NA,NA,NA,1,TRUE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,SETAR,SETAR1_3_D1_K1_T,NA,NA,NA,1,3,1,1,TRUE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,LSTAR,LSTAR1_3_D1_K1_T,NA,NA,NA,1,3,1,1,TRUE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR,AR2_K1_T,2,NA,NA,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,2,0,1,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P,AR2_K1_T_P,2,NA,NA,NA,NA,NA,1,TRUE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,AR + P + interação,AR2_K1_T_P_INTERACAO,2,NA,NA,NA,NA,NA,1,TRUE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,SETAR,SETAR2_3_D3_K1_T,NA,NA,NA,2,3,3,1,TRUE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,LSTAR,LSTAR2_3_D3_K2_T,NA,NA,NA,2,3,3,2,TRUE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR,AR3_K2_T,3,NA,NA,NA,NA,NA,2,TRUE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_1_1_2_K2_T,1,1,2,NA,NA,NA,2,TRUE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P,AR3_K2_T_P,3,NA,NA,NA,NA,NA,2,TRUE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,AR + P + interação,AR3_K2_T_P_INTERACAO,3,NA,NA,NA,NA,NA,2,TRUE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,SETAR,SETAR3_3_D1_K2_T,NA,NA,NA,3,3,1,2,TRUE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETTOP,LSTAR,LSTAR2_3_D1_K3_T,NA,NA,NA,2,3,1,3,TRUE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR,AR2_K2_T,2,NA,NA,NA,NA,NA,2,TRUE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_1_1_K2_T,2,1,1,NA,NA,NA,2,TRUE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P,AR2_K2_T_P,2,NA,NA,NA,NA,NA,2,TRUE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,AR + P + interação,AR2_K2_T_P_INTERACAO,2,NA,NA,NA,NA,NA,2,TRUE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,SETAR,SETAR1_2_D1_K2_T,NA,NA,NA,1,2,1,2,TRUE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+montes_claros_mg,Montes Claros,Mais seco,GWETROOT,LSTAR,LSTAR2_1_D1_K2_T,NA,NA,NA,2,1,1,2,TRUE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR,AR3_K3,3,NA,NA,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETTOP,ARMA/ARIMA,ARIMA_2_0_1_K3,2,0,1,NA,NA,NA,3,FALSE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P,AR3_K3_P,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETTOP,AR + P + interação,AR3_K3_P_INTERACAO,3,NA,NA,NA,NA,NA,3,FALSE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETTOP,SETAR,SETAR3_2_D1_K3,NA,NA,NA,3,2,1,3,FALSE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETTOP,LSTAR,LSTAR3_2_D1_K3,NA,NA,NA,3,2,1,3,FALSE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR,AR3_K1_T,3,NA,NA,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/autorregressivos/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETROOT,ARMA/ARIMA,ARIMA_2_0_1_K1_T,2,0,1,NA,NA,NA,1,TRUE,FALSE,FALSE,resultados/modelagem/arma_arima/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P,AR3_K1_T_P,3,NA,NA,NA,NA,NA,1,TRUE,TRUE,FALSE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETROOT,AR + P + interação,AR3_K1_T_P_INTERACAO,3,NA,NA,NA,NA,NA,1,TRUE,TRUE,TRUE,resultados/modelagem/precipitacao/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETROOT,SETAR,SETAR2_3_D3_K3_T,NA,NA,NA,2,3,3,3,TRUE,FALSE,FALSE,resultados/modelagem/setar/selecionados_validacao.csv
+petrolina_pe,Petrolina,Mais seco,GWETROOT,LSTAR,LSTAR1_2_D3_K3_T,NA,NA,NA,1,2,3,3,TRUE,FALSE,FALSE,resultados/modelagem/lstar/selecionados_validacao.csv

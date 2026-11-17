@@ -1,0 +1,70 @@
+REGISTRO DAS DECISÕES PARA A AVALIAÇÃO DE 2025
+Consolidado em 10/11/2026, antes da avaliação do teste.
+
+1. CONFIGURAÇÕES LOCAIS
+
+O CSV reúne as 72 configurações ajustadas: 12 séries em cada uma das seis famílias AR, ARMA/ARIMA, AR + P, AR + P + interação, SETAR e LSTAR. Os modelos foram copiados dos cinco arquivos selecionados_validacao.csv, identificados na coluna arquivo_origem. Não foi realizada nova seleção.
+
+Os nomes dos modelos e as ordens foram preservados. Célula vazia significa parâmetro não aplicável à família. TRUE/FALSE indicam presença/ausência. p, d e q descrevem a estrutura ARMA/ARIMA; p1 e p2, as ordens dos componentes dos modelos por regimes; delta, a defasagem de transição; K, o número de pares de harmônicos. As colunas de precipitação e interação registram sua inclusão.
+
+AR + P e AR + P + interação conservam p, K e tendência do AR. ARMA/ARIMA conserva K e tendência do AR, com p, d e q próprios. SETAR e LSTAR conservam suas escolhas independentes de p1, p2, delta, K e tendência.
+
+Manter também as duas referências para cada série: persistência (último valor observado) e sazonal ingênua de 365 dias. São 24 combinações de referência, sem ajuste de parâmetros. A sazonal utiliza o valor 365 dias antes da data prevista, não necessariamente a mesma data do calendário anterior.
+
+Assim, a avaliação local terá 96 combinações método-série. Não restringir a avaliação à família de menor RMSE em cada série.
+
+2. REAJUSTE E PREVISÃO
+
+Treinamento final: 01/01/2001 a 31/12/2024. Teste: as 365 datas de 01/01/2025 a 31/12/2025. Horizonte: um dia à frente.
+
+Estimar novamente todos os coeficientes. Manter as configurações do CSV; não repetir as grades de seleção de ordens, harmônicos, tendência ou defasagem de transição.
+
+Harmônicos: período de 365,25 dias, usando a referência temporal de 01/01/2001. Preservar o calendário completo, incluindo dias bissextos. Não introduzir diferenciação sazonal.
+
+Escala: original. A logit permanece uma análise exploratória, sem inclusão na comparação final já definida. As previsões serão avaliadas sem truncamento a [0,1].
+
+Na previsão de Y(t+1), usar apenas entradas disponíveis até t. Nos modelos com chuva, usar P(t); na interação, Y(t)*P(t). A linha da base de modelagem corresponde ao dia previsto.
+
+Manter os parâmetros fixos durante 2025. Atualizar diariamente o histórico observado; em ARMA/ARIMA, atualizar também os estados necessários à previsão, sem reestimar coeficientes. A avaliação é retrospectiva e assume a disponibilidade dos dados diários, como previsto na metodologia.
+
+3. ESTIMAÇÃO DAS FAMÍLIAS
+
+AR e extensões com precipitação: mínimos quadrados, preservando as fórmulas dos scripts 13 e 15.
+
+ARMA/ARIMA: regressão com erros ARIMA por máxima verossimilhança. Preservar method="ML", SSinit="Rossignol2011" e optim.control=list(maxit=1000), como no script 14. Para d=1, manter a especificação já adotada de diferenciação da relação completa e de tendência/deriva, sem duplicar interceptos. Verificar convergência, coeficientes finitos e covariância positiva definida.
+
+SETAR: reestimar o limiar e todos os coeficientes com o treinamento até 2024. Buscar nos valores distintos da variável de transição; exigir pelo menos ceiling(0.15*n) registros efetivos em cada regime e posto completo. Valores iguais ao limiar pertencem ao regime baixo. Escolher a menor soma de quadrados dos resíduos de treinamento. Não reutilizar o limiar estimado até 2023 como um valor fixo.
+
+LSTAR: reestimar centro, inclinação e coeficientes. Calcular a média e o desvio-padrão da variável de transição no novo treinamento. Manter o centro entre os quantis 15% e 85% e gamma padronizado em [0.1,100]; na escala original, kappa=gamma/s_z.
+
+Preservar até três centros iniciais (quantis 25%, 50% e 75%, sem repetições). Para cada centro, selecionar a inclinação inicial entre 1, 10 e 50 pela menor soma de quadrados de treinamento. Usar L-BFGS-B, maxit=300, factr=1e7, pgtol=1e-8. Escolher a solução convergente, finita, de posto completo e com menor soma de quadrados. Registrar parâmetros nos limites sem excluir automaticamente esses ajustes. Não aplicar a regra de ocupação de 15% do SETAR aos pesos do LSTAR.
+
+Em SETAR/LSTAR, a transição para prever Y(t+1) utiliza Y(t+1-delta). Não incluir precipitação nessas duas famílias. Harmônicos e eventual tendência permanecem comuns aos componentes, com coeficientes reestimados em cada modelo.
+
+4. COMPARAÇÃO E FALHAS
+
+Calcular RMSE, MAE e viés por série nas mesmas 365 datas. O viés é a média de observado menos previsto: valores positivos indicam subestimação média.
+
+Registrar número e percentual de previsões fora de [0,1] e excesso máximo. Examinar resíduos do treinamento separadamente dos erros de previsão do teste.
+
+Uma falha não autoriza selecionar outra configuração com base em 2025. Registrar o problema e identificar a combinação incompleta; não apresentar métricas sobre menos dias como se fossem equivalentes à comparação principal. Correções de implementação que preservem o método devem ser documentadas, sem nova busca por desempenho.
+
+5. TRANSFERÊNCIA
+
+Manter todas as 30 direções por camada, incluindo as seis do mesmo grupo e as 24 entre grupos. Avaliar aplicação direta e calibração afim a+b*previsao_direta. Não escolher uma origem pelo desempenho de 2025.
+
+Reutilizar os 12 ajustes finais do AR + P + interação produzidos na avaliação local. Cada origem mantém sua própria configuração e seus coeficientes. Aplicar o modelo às entradas do destino com as mesmas definições de lags, precipitação, interação e referência temporal.
+
+Estimar os dois coeficientes de calibração separadamente para cada direção e camada, apenas com respostas do destino observadas até dezembro de 2024. Manter a e b fixos em 2025; não impor b positivo e não truncar previsões.
+
+Comparar com a persistência e com o mesmo ajuste local de AR + P + interação. Tanto o ajuste local quanto a calibração utilizam todo o histórico permitido do destino. O experimento não representa um cenário com poucos dados locais.
+
+Manter a análise de domínio em Y(t) e P(t), com estatísticas de treinamento e proporção de entradas fora das faixas da origem. Ausência de extrapolação marginal não implica equivalência das distribuições ou relações preditivas.
+
+Na comparação climática, calcular primeiro o ganho da única origem do mesmo grupo e a média das quatro origens dos outros grupos em cada destino. Depois resumir entre os seis destinos com pesos iguais. Os pares não são repetições independentes.
+
+6. USO DOS ARQUIVOS
+
+Guardar configuracoes_finais_2025.csv em resultados/modelagem/ no projeto. Ele registra as decisões que o script 20 deverá executar; não contém coeficientes ajustados nem resultados do teste.
+
+Nenhum arquivo do artigo ou dos scripts originais foi alterado nesta consolidação. Nenhum modelo foi reajustado e nenhum resultado de 2025 foi examinado. O próximo trabalho é construir e executar o script 20 a partir destas definições.

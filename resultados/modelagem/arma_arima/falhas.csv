@@ -1,0 +1,16 @@
+localidade_id,variavel,modelo,ano,motivo
+belem_pa,GWETROOT,ARIMA_1_0_2_K3,2022,Covariância dos coeficientes não positiva definida.
+belem_pa,GWETROOT,ARIMA_1_1_2_K3,2024,Covariância dos coeficientes não positiva definida.
+belem_pa,GWETROOT,ARIMA_2_1_1_K3,2022,Covariância dos coeficientes não positiva definida.
+brasilia_df,GWETTOP,ARIMA_2_1_1_K1_T,2024,Covariância dos coeficientes não positiva definida.
+manaus_am,GWETROOT,ARIMA_1_0_1_K3,2022,Covariância dos coeficientes não positiva definida.
+manaus_am,GWETROOT,ARIMA_1_0_1_K3,2023,Covariância dos coeficientes não positiva definida.
+manaus_am,GWETROOT,ARIMA_1_0_1_K3,2024,Covariância dos coeficientes não positiva definida.
+montes_claros_mg,GWETROOT,ARIMA_2_0_1_K2_T,2023,Covariância dos coeficientes não positiva definida.
+montes_claros_mg,GWETROOT,ARIMA_2_0_1_K2_T,2024,Covariância dos coeficientes não positiva definida.
+petrolina_pe,GWETROOT,ARIMA_2_1_1_K1_T,2022,Covariância dos coeficientes não positiva definida.
+petrolina_pe,GWETROOT,ARIMA_2_1_1_K1_T,2023,Covariância dos coeficientes não positiva definida.
+petrolina_pe,GWETROOT,ARIMA_2_1_1_K1_T,2024,Covariância dos coeficientes não positiva definida.
+petrolina_pe,GWETTOP,ARIMA_1_1_2_K3,2022,Covariância dos coeficientes não positiva definida.
+petrolina_pe,GWETTOP,ARIMA_1_1_2_K3,2023,Covariância dos coeficientes não positiva definida.
+petrolina_pe,GWETTOP,ARIMA_1_1_2_K3,2024,Covariância dos coeficientes não positiva definida.

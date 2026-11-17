@@ -1,0 +1,9 @@
+variavel,tipo,n_comparacoes,n_previsoes,ganhos_RMSE_local,ganhos_MAE_local,ganhos_ambas_local,ganhos_RMSE_persistencia,ganhos_MAE_persistencia,ganhos_ambas_persistencia,n_fora,percentual_fora,excesso_maximo
+GWETROOT,calibrada,30,32880,0,1,0,28,10,10,497,1.5115571776155718,0.055762850463981994
+GWETROOT,direta,30,32880,0,0,0,14,4,4,235,0.7147201946472019,0.040246669897942455
+GWETROOT,local,6,6576,0,0,0,6,5,5,87,1.322992700729927,0.01756691944562716
+GWETROOT,persistencia,6,6576,0,1,0,0,0,0,0,0,0
+GWETTOP,calibrada,30,32880,1,0,0,8,3,3,2,0.006082725060827251,0.014342296942104538
+GWETTOP,direta,30,32880,0,1,0,6,0,0,0,0,0
+GWETTOP,local,6,6576,0,0,0,6,3,3,0,0,0
+GWETTOP,persistencia,6,6576,0,3,0,0,0,0,0,0,0

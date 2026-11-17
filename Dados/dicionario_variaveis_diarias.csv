@@ -1,0 +1,8 @@
+variavel,unidade,descricao
+GWETTOP,0 a 1,Saturação relativa do solo entre 0 e 5 cm
+GWETROOT,0 a 1,Saturação relativa do solo entre 0 e 100 cm
+PRECTOTCORR,mm/dia,Precipitação corrigida
+T2M,°C,Temperatura média a 2 m
+RH2M,%,Umidade relativa a 2 m
+ALLSKY_SFC_SW_DWN,MJ/m²/dia,Radiação solar incidente na superfície
+EVPTRNS,MJ/m²/dia,Fluxo de energia de evapotranspiração

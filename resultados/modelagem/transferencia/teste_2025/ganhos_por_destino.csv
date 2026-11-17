@@ -1,0 +1,49 @@
+periodo,destino_id,destino,clima_destino,variavel,tipo,grupo,n_origens,ganho_RMSE,ganho_MAE
+2025,belem_pa,Belém,Úmido,GWETROOT,calibrada,Mesmo grupo,1,-2.5297554354118956,-2.177391984103627
+2025,belem_pa,Belém,Úmido,GWETROOT,calibrada,Outros grupos,4,-14.851267996941058,-15.098786262192217
+2025,belem_pa,Belém,Úmido,GWETROOT,direta,Mesmo grupo,1,-1.946072103962293,-1.4168583301122473
+2025,belem_pa,Belém,Úmido,GWETROOT,direta,Outros grupos,4,-116.0353325551216,-143.7903902314903
+2025,belem_pa,Belém,Úmido,GWETTOP,calibrada,Mesmo grupo,1,-1.4555702620969724,-1.1601823017213908
+2025,belem_pa,Belém,Úmido,GWETTOP,calibrada,Outros grupos,4,-49.49606924473183,-50.83895721065401
+2025,belem_pa,Belém,Úmido,GWETTOP,direta,Mesmo grupo,1,-1.6328266493359278,-0.2468740908608158
+2025,belem_pa,Belém,Úmido,GWETTOP,direta,Outros grupos,4,-107.03447908679189,-152.31120941723537
+2025,brasilia_df,Brasília,Tropical sazonal,GWETROOT,calibrada,Mesmo grupo,1,-9.540885922089348,-13.586367418139766
+2025,brasilia_df,Brasília,Tropical sazonal,GWETROOT,calibrada,Outros grupos,4,-9.64683667683946,-18.586059162399543
+2025,brasilia_df,Brasília,Tropical sazonal,GWETROOT,direta,Mesmo grupo,1,-105.222878726837,-184.3365904048287
+2025,brasilia_df,Brasília,Tropical sazonal,GWETROOT,direta,Outros grupos,4,-21.364874328811823,-42.977695207075165
+2025,brasilia_df,Brasília,Tropical sazonal,GWETTOP,calibrada,Mesmo grupo,1,-7.902206475948859,-8.935897170846552
+2025,brasilia_df,Brasília,Tropical sazonal,GWETTOP,calibrada,Outros grupos,4,-8.38524056826654,-17.446597838502875
+2025,brasilia_df,Brasília,Tropical sazonal,GWETTOP,direta,Mesmo grupo,1,-13.580077344835972,-18.164710629977577
+2025,brasilia_df,Brasília,Tropical sazonal,GWETTOP,direta,Outros grupos,4,-5.291056403906863,-14.916951714487718
+2025,manaus_am,Manaus,Úmido,GWETROOT,calibrada,Mesmo grupo,1,-13.528248318083769,-17.104505562350592
+2025,manaus_am,Manaus,Úmido,GWETROOT,calibrada,Outros grupos,4,-10.126887755106157,-6.553046043094146
+2025,manaus_am,Manaus,Úmido,GWETROOT,direta,Mesmo grupo,1,-14.276942678703875,-18.229485348870767
+2025,manaus_am,Manaus,Úmido,GWETROOT,direta,Outros grupos,4,-21.453254361763353,-25.034070259901636
+2025,manaus_am,Manaus,Úmido,GWETTOP,calibrada,Mesmo grupo,1,-1.5197956234879406,-3.9858031651829773
+2025,manaus_am,Manaus,Úmido,GWETTOP,calibrada,Outros grupos,4,-19.651862113265196,-17.36809036604526
+2025,manaus_am,Manaus,Úmido,GWETTOP,direta,Mesmo grupo,1,-1.670038369129223,-2.625421911514625
+2025,manaus_am,Manaus,Úmido,GWETTOP,direta,Outros grupos,4,-12.827579879372863,-7.141382476208369
+2025,montes_claros_mg,Montes Claros,Mais seco,GWETROOT,calibrada,Mesmo grupo,1,-7.293463260587019,-5.154952468719243
+2025,montes_claros_mg,Montes Claros,Mais seco,GWETROOT,calibrada,Outros grupos,4,-13.680254242308603,-28.26620388220632
+2025,montes_claros_mg,Montes Claros,Mais seco,GWETROOT,direta,Mesmo grupo,1,-56.32732993688177,-134.5919057693809
+2025,montes_claros_mg,Montes Claros,Mais seco,GWETROOT,direta,Outros grupos,4,-47.961278328634,-104.30109127413593
+2025,montes_claros_mg,Montes Claros,Mais seco,GWETTOP,calibrada,Mesmo grupo,1,-4.977962450150519,-13.528630047685075
+2025,montes_claros_mg,Montes Claros,Mais seco,GWETTOP,calibrada,Outros grupos,4,-9.498436155414186,-15.397634192931397
+2025,montes_claros_mg,Montes Claros,Mais seco,GWETTOP,direta,Mesmo grupo,1,-5.126238191564703,5.23920969736944
+2025,montes_claros_mg,Montes Claros,Mais seco,GWETTOP,direta,Outros grupos,4,-12.158546230285094,-24.215772738656355
+2025,petrolina_pe,Petrolina,Mais seco,GWETROOT,calibrada,Mesmo grupo,1,-9.818518346213567,-10.538359741428561
+2025,petrolina_pe,Petrolina,Mais seco,GWETROOT,calibrada,Outros grupos,4,1.681440601165107,-18.50578464229273
+2025,petrolina_pe,Petrolina,Mais seco,GWETROOT,direta,Mesmo grupo,1,-38.151538479510386,-183.01959193479345
+2025,petrolina_pe,Petrolina,Mais seco,GWETROOT,direta,Outros grupos,4,-31.280621047200018,-163.83036050872215
+2025,petrolina_pe,Petrolina,Mais seco,GWETTOP,calibrada,Mesmo grupo,1,-4.017060039417841,-9.418182023113308
+2025,petrolina_pe,Petrolina,Mais seco,GWETTOP,calibrada,Outros grupos,4,-13.895698297077686,-38.144765045284714
+2025,petrolina_pe,Petrolina,Mais seco,GWETTOP,direta,Mesmo grupo,1,-4.24421397798882,-40.92505126024433
+2025,petrolina_pe,Petrolina,Mais seco,GWETTOP,direta,Outros grupos,4,-15.781043726899995,-70.55191073787556
+2025,uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,calibrada,Mesmo grupo,1,0.12682108888902865,4.282921933505179
+2025,uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,calibrada,Outros grupos,4,-21.626859833132844,-22.319447916300412
+2025,uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,direta,Mesmo grupo,1,-31.54189859028158,-47.81620969521936
+2025,uberlandia_mg,Uberlândia,Tropical sazonal,GWETROOT,direta,Outros grupos,4,-111.64148685579546,-181.80593550153
+2025,uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,calibrada,Mesmo grupo,1,-16.29352676658553,-27.902642772054698
+2025,uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,calibrada,Outros grupos,4,-21.89952571120738,-33.671957630673646
+2025,uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,direta,Mesmo grupo,1,-25.378857028449907,-18.580956013008397
+2025,uberlandia_mg,Uberlândia,Tropical sazonal,GWETTOP,direta,Outros grupos,4,-28.429326311518768,-21.797432845908514

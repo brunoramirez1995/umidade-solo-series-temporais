@@ -1,0 +1,49 @@
+localidade,clima,variavel,transformacao,acf_1,adf_p_valor,resultado_adf,kpss_nivel_p_valor,resultado_kpss_nivel,kpss_tendencia_p_valor,resultado_kpss_tendencia
+Belém,Úmido,GWETROOT,Original,0.9987900135193162,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Belém,Úmido,GWETROOT,Primeira diferença,0.2749279763754749,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Belém,Úmido,GWETROOT,Diferença sazonal,0.9906048172206237,0.01,Rejeita raiz unitária,0.05228656135014623,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Belém,Úmido,GWETROOT,Primeira e sazonal,0.16538504597246675,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Belém,Úmido,GWETTOP,Original,0.9932378170478424,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Belém,Úmido,GWETTOP,Primeira diferença,-0.030016711342564215,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Belém,Úmido,GWETTOP,Diferença sazonal,0.947410254364718,0.01,Rejeita raiz unitária,0.04496987330207415,Rejeita estacionariedade,0.06357406671556451,Não rejeita estacionariedade
+Belém,Úmido,GWETTOP,Primeira e sazonal,-0.04839954325309181,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Brasília,Tropical sazonal,GWETROOT,Original,0.9969463639355206,0.01,Rejeita raiz unitária,0.015033006594219165,Rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Brasília,Tropical sazonal,GWETROOT,Primeira diferença,0.29509337916664136,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Brasília,Tropical sazonal,GWETROOT,Diferença sazonal,0.9886376418451917,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Brasília,Tropical sazonal,GWETROOT,Primeira e sazonal,0.257151991422131,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Brasília,Tropical sazonal,GWETTOP,Original,0.9916082300231409,0.01,Rejeita raiz unitária,0.047604248365098425,Rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Brasília,Tropical sazonal,GWETTOP,Primeira diferença,0.1035831726471093,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Brasília,Tropical sazonal,GWETTOP,Diferença sazonal,0.9586210788660383,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Brasília,Tropical sazonal,GWETTOP,Primeira e sazonal,0.12111857134475787,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Manaus,Úmido,GWETROOT,Original,0.9976093711462697,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.01,Rejeita estacionariedade
+Manaus,Úmido,GWETROOT,Primeira diferença,0.16767900662018845,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Manaus,Úmido,GWETROOT,Diferença sazonal,0.9895066852342067,0.01,Rejeita raiz unitária,0.01,Rejeita estacionariedade,0.01,Rejeita estacionariedade
+Manaus,Úmido,GWETROOT,Primeira e sazonal,0.11698485678454455,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Manaus,Úmido,GWETTOP,Original,0.9845001982849795,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.01,Rejeita estacionariedade
+Manaus,Úmido,GWETTOP,Primeira diferença,-0.08296182904777266,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Manaus,Úmido,GWETTOP,Diferença sazonal,0.9331971076419414,0.01,Rejeita raiz unitária,0.01,Rejeita estacionariedade,0.01,Rejeita estacionariedade
+Manaus,Úmido,GWETTOP,Primeira e sazonal,-0.08816300348232275,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Montes Claros,Mais seco,GWETROOT,Original,0.9840687224843013,0.01,Rejeita raiz unitária,0.01,Rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Montes Claros,Mais seco,GWETROOT,Primeira diferença,0.4913976020738982,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Montes Claros,Mais seco,GWETROOT,Diferença sazonal,0.9755417323420045,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Montes Claros,Mais seco,GWETROOT,Primeira e sazonal,0.4909229781890488,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Montes Claros,Mais seco,GWETTOP,Original,0.9760805063588898,0.01,Rejeita raiz unitária,0.01,Rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Montes Claros,Mais seco,GWETTOP,Primeira diferença,0.1696842343825753,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Montes Claros,Mais seco,GWETTOP,Diferença sazonal,0.950263076597171,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Montes Claros,Mais seco,GWETTOP,Primeira e sazonal,0.16805164697833896,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Petrolina,Mais seco,GWETROOT,Original,0.9839913162651844,0.01,Rejeita raiz unitária,0.01,Rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Petrolina,Mais seco,GWETROOT,Primeira diferença,0.23876463053950203,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Petrolina,Mais seco,GWETROOT,Diferença sazonal,0.9794412992875329,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Petrolina,Mais seco,GWETROOT,Primeira e sazonal,0.23923523954708026,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Petrolina,Mais seco,GWETTOP,Original,0.9800649466824127,0.01,Rejeita raiz unitária,0.01,Rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Petrolina,Mais seco,GWETTOP,Primeira diferença,0.3067736423704587,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Petrolina,Mais seco,GWETTOP,Diferença sazonal,0.9653890004201892,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Petrolina,Mais seco,GWETTOP,Primeira e sazonal,0.30676952054411377,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Uberlândia,Tropical sazonal,GWETROOT,Original,0.9910169672089743,0.01,Rejeita raiz unitária,0.01,Rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Uberlândia,Tropical sazonal,GWETROOT,Primeira diferença,0.4254015707780067,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Uberlândia,Tropical sazonal,GWETROOT,Diferença sazonal,0.9771724266512168,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.0414323688380841,Rejeita estacionariedade
+Uberlândia,Tropical sazonal,GWETROOT,Primeira e sazonal,0.436219746184249,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Uberlândia,Tropical sazonal,GWETTOP,Original,0.9581085676665799,0.01,Rejeita raiz unitária,0.01,Rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Uberlândia,Tropical sazonal,GWETTOP,Primeira diferença,-0.09285565981920711,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade
+Uberlândia,Tropical sazonal,GWETTOP,Diferença sazonal,0.8971774872996161,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.0508968448854222,Não rejeita estacionariedade
+Uberlândia,Tropical sazonal,GWETTOP,Primeira e sazonal,-0.08133645383462876,0.01,Rejeita raiz unitária,0.1,Não rejeita estacionariedade,0.1,Não rejeita estacionariedade

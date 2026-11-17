@@ -1,0 +1,22 @@
+# Sessão do R e arquivos locais do RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporários do sistema e do editor
+.DS_Store
+Thumbs.db
+*~
+
+# Objetos dos modelos: gerados pelos scripts ou distribuídos em pacote separado
+/resultados/modelagem/**/*.rds
+/ajustes_salvos.zip
+
+# Documento do artigo, material de leitura e entregas antigas mantidos localmente
+/artigo/
+/Bibliografia/
+/Entregas/
+
+# CSVs, scripts e figuras PDF/PNG permanecem versionados.
+

@@ -1,0 +1,13 @@
+localidade,variavel,minimo,maximo,iguais_a_zero,iguais_a_um,percentual_igual_um,fora_do_intervalo,valores_distintos
+Belém,GWETROOT,0.46,1,0,1267,13.875807688095499,0,55
+Belém,GWETTOP,0.26,1,0,6,0.06571021793888951,0,75
+Brasília,GWETROOT,0.56,1,0,6,0.06571021793888951,0,45
+Brasília,GWETTOP,0.13,0.98,0,0,0,0,86
+Manaus,GWETROOT,0.48,1,0,216,2.365567845800022,0,53
+Manaus,GWETTOP,0.22,0.99,0,0,0,0,78
+Montes Claros,GWETROOT,0.52,0.92,0,0,0,0,41
+Montes Claros,GWETTOP,0.2,0.95,0,0,0,0,76
+Petrolina,GWETROOT,0.59,0.91,0,0,0,0,33
+Petrolina,GWETTOP,0.14,0.93,0,0,0,0,80
+Uberlândia,GWETROOT,0.37,0.84,0,0,0,0,48
+Uberlândia,GWETTOP,0.2,0.87,0,0,0,0,67
